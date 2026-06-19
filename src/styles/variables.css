@@ -1,0 +1,94 @@
+/* ==========================================================================
+   FreshHire Design Tokens
+   Palette: "Sprout" — fresh green for growth/new beginnings, deep indigo
+   for trust/credibility, marigold for the warmth of an offer letter.
+   Deliberately avoids the cream-serif and near-black-neon defaults: this
+   is a daytime, optimistic, first-job energy rather than a moody one.
+   ========================================================================== */
+
+:root {
+  /* ---- Color: surfaces ---- */
+  --color-paper: #FAFBF7;          /* page background, warm off-white, not cream */
+  --color-surface: #FFFFFF;        /* cards, panels */
+  --color-surface-sunken: #F1F4EC; /* subtle recessed panels, skeletons */
+  --color-border: #E1E6D9;
+
+  /* ---- Color: ink ---- */
+  --color-ink: #16231F;            /* primary text, deep green-black */
+  --color-ink-soft: #4B5A53;       /* secondary text */
+  --color-ink-faint: #8B978F;      /* placeholder, disabled */
+
+  /* ---- Color: brand ---- */
+  --color-sprout: #2F8F52;         /* primary brand green */
+  --color-sprout-dark: #226A3D;
+  --color-sprout-light: #E6F3EA;
+  --color-indigo: #1F2A44;         /* secondary / header / footer */
+  --color-indigo-light: #2C3A5C;
+  --color-marigold: #F2A93B;       /* accent: offers, highlights, stars */
+  --color-marigold-dark: #C97F1E;
+  --color-marigold-light: #FCEFD8;
+
+  /* ---- Color: status (used by StatusBadge) ---- */
+  --color-status-applied-bg: #E8EEFB;
+  --color-status-applied-text: #2E4F9C;
+  --color-status-review-bg: #FCEFD8;
+  --color-status-review-text: #C97F1E;
+  --color-status-interview-bg: #EFE6FB;
+  --color-status-interview-text: #6B3FA0;
+  --color-status-offer-bg: #E6F3EA;
+  --color-status-offer-text: #226A3D;
+  --color-status-rejected-bg: #FBE8E8;
+  --color-status-rejected-text: #B0392F;
+
+  /* ---- Color: feedback ---- */
+  --color-success: #2F8F52;
+  --color-danger: #C44536;
+  --color-danger-bg: #FBE8E8;
+
+  /* ---- Typography ---- */
+  --font-display: 'Sora', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-base: 1rem;
+  --fs-md: 1.125rem;
+  --fs-lg: 1.375rem;
+  --fs-xl: 1.75rem;
+  --fs-2xl: 2.25rem;
+  --fs-3xl: 3rem;
+  --fs-4xl: 3.75rem;
+
+  --lh-tight: 1.15;
+  --lh-snug: 1.35;
+  --lh-normal: 1.6;
+
+  /* ---- Spacing scale ---- */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+  --space-9: 6rem;
+
+  /* ---- Radius & shadow ---- */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-pill: 999px;
+
+  --shadow-sm: 0 1px 2px rgba(22, 35, 31, 0.06);
+  --shadow-md: 0 4px 16px rgba(22, 35, 31, 0.08);
+  --shadow-lg: 0 12px 32px rgba(22, 35, 31, 0.12);
+  --shadow-focus: 0 0 0 3px rgba(47, 143, 82, 0.35);
+
+  /* ---- Layout ---- */
+  --container-max: 1180px;
+  --header-height: 72px;
+  --transition-fast: 150ms ease;
+  --transition-base: 220ms ease;
+}

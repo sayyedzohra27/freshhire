@@ -1,0 +1,524 @@
+[
+  {
+    "id": "j01",
+    "title": "Junior Frontend Developer",
+    "company": "Trinetra Softworks",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": "Hinjawadi, Pune",
+    "experience": "Fresher",
+    "salaryMin": 25000,
+    "salaryMax": 35000,
+    "postedDaysAgo": 1,
+    "openings": 4,
+    "applicants": 62,
+    "featured": true,
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "description": "Trinetra Softworks is looking for a Junior Frontend Developer to join our product team building dashboards for retail clients. You'll work closely with senior engineers to ship real features from day one, with mentorship built into your first 90 days.",
+    "responsibilities": [
+      "Build and style responsive UI components using React",
+      "Convert Figma designs into pixel-accurate pages",
+      "Fix bugs reported by QA and write basic test cases",
+      "Participate in daily stand-ups and sprint planning"
+    ],
+    "requirements": [
+      "Diploma or degree in Computer Science, IT, or related field",
+      "Basic understanding of HTML, CSS, and JavaScript",
+      "Familiarity with React is a plus, not mandatory",
+      "Eagerness to learn and take feedback well"
+    ]
+  },
+  {
+    "id": "j02",
+    "title": "Business Development Associate",
+    "company": "Orbit Fintech Labs",
+    "category": "Sales & Marketing",
+    "type": "Full-time",
+    "location": "Kharadi, Pune",
+    "experience": "Fresher",
+    "salaryMin": 22000,
+    "salaryMax": 30000,
+    "postedDaysAgo": 2,
+    "openings": 8,
+    "applicants": 140,
+    "featured": true,
+    "skills": ["Communication", "MS Excel", "Negotiation"],
+    "description": "Join Orbit Fintech's growth team to help small businesses adopt our digital lending platform. This is a field-and-call role ideal for confident communicators who enjoy meeting new people every day.",
+    "responsibilities": [
+      "Generate and qualify leads through calls and field visits",
+      "Explain loan products to shopkeepers and small business owners",
+      "Maintain daily activity reports in the CRM",
+      "Meet weekly targets for client onboarding"
+    ],
+    "requirements": [
+      "Any graduate, BBA preferred",
+      "Comfortable with daily local travel within Pune",
+      "Good spoken Hindi, Marathi, and English",
+      "Two-wheeler with valid license preferred"
+    ]
+  },
+  {
+    "id": "j03",
+    "title": "Customer Support Executive",
+    "company": "Bluewave Technologies",
+    "category": "Customer Support",
+    "type": "Full-time",
+    "location": "Viman Nagar, Pune",
+    "experience": "Fresher",
+    "salaryMin": 20000,
+    "salaryMax": 27000,
+    "postedDaysAgo": 1,
+    "openings": 12,
+    "applicants": 98,
+    "featured": false,
+    "skills": ["Communication", "Problem Solving", "Typing Speed"],
+    "description": "Bluewave Technologies runs 24x7 support for our SaaS customers across India and the Middle East. We're hiring freshers for our voice and chat support team with rotational shifts and night shift allowance.",
+    "responsibilities": [
+      "Respond to customer queries over chat, email, and calls",
+      "Log and escalate technical issues to the product team",
+      "Maintain a first-response time under 2 minutes",
+      "Document common issues for the internal knowledge base"
+    ],
+    "requirements": [
+      "Any graduate or final-year student",
+      "Clear spoken and written English",
+      "Willingness to work in rotational shifts",
+      "Basic computer literacy"
+    ]
+  },
+  {
+    "id": "j04",
+    "title": "Graphic Design Intern",
+    "company": "Studio Marigold",
+    "category": "Design",
+    "type": "Internship",
+    "location": "Kothrud, Pune",
+    "experience": "Fresher",
+    "salaryMin": 8000,
+    "salaryMax": 12000,
+    "postedDaysAgo": 4,
+    "openings": 2,
+    "applicants": 54,
+    "featured": false,
+    "skills": ["Figma", "Adobe Illustrator", "Photoshop"],
+    "description": "Studio Marigold is a boutique branding studio working with D2C food and fashion brands. This 6-month internship offers hands-on exposure to real client projects, with a strong chance of full-time conversion.",
+    "responsibilities": [
+      "Design social media creatives and packaging mockups",
+      "Assist senior designers in brand identity projects",
+      "Prepare print-ready files for vendors",
+      "Take part in weekly client review calls"
+    ],
+    "requirements": [
+      "Pursuing or completed a design diploma/degree",
+      "Working knowledge of Figma and Adobe Creative Suite",
+      "A portfolio of 3-5 sample works",
+      "Strong sense of typography and color"
+    ]
+  },
+  {
+    "id": "j05",
+    "title": "Junior Data Analyst",
+    "company": "Pune Analytics Hub",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": "Baner, Pune",
+    "experience": "0-1 years",
+    "salaryMin": 28000,
+    "salaryMax": 38000,
+    "postedDaysAgo": 3,
+    "openings": 3,
+    "applicants": 76,
+    "featured": true,
+    "skills": ["Excel", "SQL", "Power BI"],
+    "description": "Pune Analytics Hub helps e-commerce brands make sense of their sales data. As a Junior Data Analyst, you'll clean datasets and build dashboards that business teams actually use to make decisions.",
+    "responsibilities": [
+      "Clean and structure raw sales and marketing data",
+      "Build dashboards in Power BI for weekly business reviews",
+      "Write SQL queries to pull data for ad-hoc requests",
+      "Support senior analysts on monthly reporting"
+    ],
+    "requirements": [
+      "Degree in Statistics, Commerce, Engineering, or related field",
+      "Working knowledge of Excel and basic SQL",
+      "Exposure to Power BI or Tableau is a plus",
+      "Comfortable working with numbers and detail-oriented"
+    ]
+  },
+  {
+    "id": "j06",
+    "title": "HR Recruiter Trainee",
+    "company": "Sahyadri Manpower Solutions",
+    "category": "Human Resources",
+    "type": "Full-time",
+    "location": "Shivaji Nagar, Pune",
+    "experience": "Fresher",
+    "salaryMin": 18000,
+    "salaryMax": 24000,
+    "postedDaysAgo": 5,
+    "openings": 6,
+    "applicants": 110,
+    "featured": false,
+    "skills": ["Communication", "MS Office", "Sourcing"],
+    "description": "Sahyadri Manpower Solutions places blue and grey collar talent for manufacturing clients across Maharashtra. We're hiring HR trainees to learn sourcing, screening, and onboarding from the ground up.",
+    "responsibilities": [
+      "Source candidates through job portals and referrals",
+      "Conduct first-round telephonic screenings",
+      "Coordinate interview schedules with hiring managers",
+      "Maintain candidate trackers and offer letters"
+    ],
+    "requirements": [
+      "Graduate in any stream, HR specialization preferred",
+      "Confident phone and email communication",
+      "Comfortable using Excel and Google Sheets",
+      "Target-driven mindset"
+    ]
+  },
+  {
+    "id": "j07",
+    "title": "Junior Backend Developer (Node.js)",
+    "company": "Trinetra Softworks",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": "Hinjawadi, Pune",
+    "experience": "Fresher",
+    "salaryMin": 26000,
+    "salaryMax": 36000,
+    "postedDaysAgo": 1,
+    "openings": 3,
+    "applicants": 88,
+    "featured": false,
+    "skills": ["Node.js", "MongoDB", "REST APIs"],
+    "description": "Work on the backend services that power Trinetra's retail dashboard product. You'll learn how to design APIs, work with databases, and ship code that's actually used by paying customers.",
+    "responsibilities": [
+      "Build REST APIs using Node.js and Express",
+      "Write database queries and basic schema design in MongoDB",
+      "Debug production issues alongside senior developers",
+      "Document API endpoints for the frontend team"
+    ],
+    "requirements": [
+      "Degree in Computer Science, IT, or related field",
+      "Basic understanding of JavaScript and Node.js",
+      "Familiarity with REST APIs and databases",
+      "Strong problem-solving fundamentals"
+    ]
+  },
+  {
+    "id": "j08",
+    "title": "Content Writer Intern",
+    "company": "Wordloom Media",
+    "category": "Content & Media",
+    "type": "Internship",
+    "location": "Remote (Pune-based preferred)",
+    "experience": "Fresher",
+    "salaryMin": 6000,
+    "salaryMax": 10000,
+    "postedDaysAgo": 6,
+    "openings": 3,
+    "applicants": 73,
+    "featured": false,
+    "skills": ["Writing", "SEO Basics", "Research"],
+    "description": "Wordloom Media creates blog content and newsletters for B2B SaaS companies. This internship is great for someone who loves writing and wants to learn how content drives business results.",
+    "responsibilities": [
+      "Write blog posts and social captions on assigned topics",
+      "Research industry trends before drafting articles",
+      "Edit drafts based on editor feedback",
+      "Follow basic on-page SEO guidelines"
+    ],
+    "requirements": [
+      "Strong written English",
+      "Pursuing or completed a degree in any stream",
+      "A writing sample or blog link",
+      "Curiosity about technology and business topics"
+    ]
+  },
+  {
+    "id": "j09",
+    "title": "Operations Associate",
+    "company": "Greenleaf Foods",
+    "category": "Operations",
+    "type": "Full-time",
+    "location": "Hadapsar, Pune",
+    "experience": "Fresher",
+    "salaryMin": 19000,
+    "salaryMax": 25000,
+    "postedDaysAgo": 2,
+    "openings": 5,
+    "applicants": 64,
+    "featured": false,
+    "skills": ["MS Excel", "Inventory Management", "Coordination"],
+    "description": "Greenleaf Foods runs a cloud kitchen network across Pune. As an Operations Associate, you'll coordinate between kitchens, delivery partners, and the central team to keep things running smoothly.",
+    "responsibilities": [
+      "Track daily inventory and raise purchase requests",
+      "Coordinate with delivery partners on order issues",
+      "Prepare daily operations reports for the manager",
+      "Visit kitchen units for quality and process checks"
+    ],
+    "requirements": [
+      "Any graduate, hospitality background a plus",
+      "Comfortable with Excel and basic reporting",
+      "Willing to travel between kitchen units in Pune",
+      "Organized and detail-oriented"
+    ]
+  },
+  {
+    "id": "j10",
+    "title": "QA Tester Trainee",
+    "company": "Bluewave Technologies",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": "Viman Nagar, Pune",
+    "experience": "Fresher",
+    "salaryMin": 21000,
+    "salaryMax": 28000,
+    "postedDaysAgo": 3,
+    "openings": 4,
+    "applicants": 51,
+    "featured": false,
+    "skills": ["Manual Testing", "Bug Tracking", "Attention to Detail"],
+    "description": "Join Bluewave's QA team to test new features before they reach customers. You'll be trained on manual testing fundamentals and bug tracking tools used across the industry.",
+    "responsibilities": [
+      "Execute test cases for new feature releases",
+      "Log bugs clearly with steps to reproduce",
+      "Retest fixed issues before release sign-off",
+      "Work closely with developers to clarify edge cases"
+    ],
+    "requirements": [
+      "Diploma or degree in Computer Science or IT",
+      "Logical thinking and attention to detail",
+      "Basic understanding of how web or mobile apps work",
+      "Willingness to learn testing tools on the job"
+    ]
+  },
+  {
+    "id": "j11",
+    "title": "Digital Marketing Executive",
+    "company": "Orbit Fintech Labs",
+    "category": "Sales & Marketing",
+    "type": "Full-time",
+    "location": "Kharadi, Pune",
+    "experience": "0-1 years",
+    "salaryMin": 23000,
+    "salaryMax": 32000,
+    "postedDaysAgo": 4,
+    "openings": 2,
+    "applicants": 67,
+    "featured": false,
+    "skills": ["Social Media", "Google Ads", "Analytics"],
+    "description": "Help Orbit Fintech grow its presence across social and search channels. You'll run small campaigns, track performance, and learn paid marketing fundamentals from a lean, fast-moving team.",
+    "responsibilities": [
+      "Schedule and publish posts across social channels",
+      "Assist in setting up and monitoring Google Ads campaigns",
+      "Track campaign performance using Google Analytics",
+      "Prepare weekly marketing performance summaries"
+    ],
+    "requirements": [
+      "Degree in Marketing, Mass Communication, or related field",
+      "Basic understanding of social media platforms",
+      "Familiarity with Canva or similar design tools",
+      "Analytical mindset and willingness to learn ad platforms"
+    ]
+  },
+  {
+    "id": "j12",
+    "title": "Accounts Executive (Fresher)",
+    "company": "Sahyadri Manpower Solutions",
+    "category": "Finance & Accounts",
+    "type": "Full-time",
+    "location": "Shivaji Nagar, Pune",
+    "experience": "Fresher",
+    "salaryMin": 20000,
+    "salaryMax": 27000,
+    "postedDaysAgo": 5,
+    "openings": 3,
+    "applicants": 59,
+    "featured": false,
+    "skills": ["Tally", "MS Excel", "Basic Accounting"],
+    "description": "We're hiring a fresher Accounts Executive to support invoicing, vendor payments, and basic bookkeeping for our growing staffing business. Tally training will be provided in the first two weeks.",
+    "responsibilities": [
+      "Enter daily transactions into Tally",
+      "Prepare vendor invoices and follow up on payments",
+      "Reconcile bank statements weekly",
+      "Assist the finance manager during month-end closing"
+    ],
+    "requirements": [
+      "B.Com or equivalent degree",
+      "Basic knowledge of accounting principles",
+      "Comfortable with MS Excel",
+      "Tally knowledge is a plus, not mandatory"
+    ]
+  },
+  {
+    "id": "j13",
+    "title": "UI/UX Design Intern",
+    "company": "Studio Marigold",
+    "category": "Design",
+    "type": "Internship",
+    "location": "Kothrud, Pune",
+    "experience": "Fresher",
+    "salaryMin": 9000,
+    "salaryMax": 13000,
+    "postedDaysAgo": 2,
+    "openings": 2,
+    "applicants": 81,
+    "featured": true,
+    "skills": ["Figma", "Wireframing", "User Research"],
+    "description": "Studio Marigold is expanding into product design for early-stage startups. As a UI/UX intern, you'll shadow senior designers on wireframes, prototypes, and usability sessions.",
+    "responsibilities": [
+      "Create wireframes and low-fidelity prototypes in Figma",
+      "Assist in running basic user interviews and surveys",
+      "Maintain design files and component libraries",
+      "Present design concepts in internal reviews"
+    ],
+    "requirements": [
+      "Pursuing or completed a design-related course",
+      "Basic knowledge of Figma",
+      "Interest in how people use digital products",
+      "Portfolio of academic or personal projects"
+    ]
+  },
+  {
+    "id": "j14",
+    "title": "Inside Sales Representative",
+    "company": "Greenleaf Foods",
+    "category": "Sales & Marketing",
+    "type": "Full-time",
+    "location": "Hadapsar, Pune",
+    "experience": "Fresher",
+    "salaryMin": 21000,
+    "salaryMax": 29000,
+    "postedDaysAgo": 1,
+    "openings": 6,
+    "applicants": 102,
+    "featured": false,
+    "skills": ["Communication", "CRM", "Persuasion"],
+    "description": "Drive bulk and corporate orders for Greenleaf's cloud kitchens through outbound calling and email outreach. Uncapped incentives on top of fixed salary for freshers who hit their targets.",
+    "responsibilities": [
+      "Make outbound calls to corporate leads",
+      "Follow up on inbound enquiries within 30 minutes",
+      "Update lead status daily in the CRM",
+      "Coordinate with operations team for order fulfilment"
+    ],
+    "requirements": [
+      "Any graduate",
+      "Confident telephone communication in English and Hindi",
+      "Comfortable with target-based work",
+      "Basic computer skills"
+    ]
+  },
+  {
+    "id": "j15",
+    "title": "Junior Mobile App Developer (Flutter)",
+    "company": "Trinetra Softworks",
+    "category": "Software Development",
+    "type": "Full-time",
+    "location": "Hinjawadi, Pune",
+    "experience": "Fresher",
+    "salaryMin": 27000,
+    "salaryMax": 37000,
+    "postedDaysAgo": 6,
+    "openings": 2,
+    "applicants": 45,
+    "featured": false,
+    "skills": ["Flutter", "Dart", "Firebase"],
+    "description": "Help build the mobile companion app for our retail analytics platform. You'll work in a small mobile pod alongside one senior developer, learning Flutter and Firebase in a real production codebase.",
+    "responsibilities": [
+      "Build screens and widgets using Flutter",
+      "Integrate Firebase authentication and notifications",
+      "Fix bugs reported during internal testing",
+      "Write basic unit tests for new features"
+    ],
+    "requirements": [
+      "Degree in Computer Science, IT, or related field",
+      "Academic or personal project experience with Flutter or any mobile framework",
+      "Understanding of basic programming concepts",
+      "Willingness to learn Dart quickly"
+    ]
+  },
+  {
+    "id": "j16",
+    "title": "Front Office & Admin Executive",
+    "company": "Sahyadri Manpower Solutions",
+    "category": "Operations",
+    "type": "Full-time",
+    "location": "Shivaji Nagar, Pune",
+    "experience": "Fresher",
+    "salaryMin": 17000,
+    "salaryMax": 22000,
+    "postedDaysAgo": 7,
+    "openings": 2,
+    "applicants": 38,
+    "featured": false,
+    "skills": ["MS Office", "Communication", "Scheduling"],
+    "description": "Manage the front desk and day-to-day office administration for our growing staffing firm. A great starting role for someone organized who enjoys keeping things running smoothly.",
+    "responsibilities": [
+      "Greet visitors and manage incoming calls",
+      "Schedule meeting rooms and manage courier logs",
+      "Maintain office supplies and vendor contacts",
+      "Support HR with onboarding paperwork"
+    ],
+    "requirements": [
+      "Any graduate",
+      "Pleasant and professional communication",
+      "Comfortable with MS Office tools",
+      "Well organized and punctual"
+    ]
+  },
+  {
+    "id": "j17",
+    "title": "Social Media Intern",
+    "company": "Wordloom Media",
+    "category": "Content & Media",
+    "type": "Internship",
+    "location": "Remote (Pune-based preferred)",
+    "experience": "Fresher",
+    "salaryMin": 5000,
+    "salaryMax": 9000,
+    "postedDaysAgo": 3,
+    "openings": 2,
+    "applicants": 91,
+    "featured": false,
+    "skills": ["Instagram", "Canva", "Trend Research"],
+    "description": "Manage and grow Instagram and LinkedIn pages for our client roster of SaaS and D2C brands. A fun, fast-paced internship for someone who's always a step ahead on social trends.",
+    "responsibilities": [
+      "Plan and schedule a weekly content calendar",
+      "Design simple creatives using Canva",
+      "Track engagement and report weekly growth",
+      "Spot relevant trends for client brands to jump on"
+    ],
+    "requirements": [
+      "Active and savvy social media user",
+      "Pursuing or completed any degree",
+      "Basic design sense, Canva experience a plus",
+      "Reliable internet and a personal laptop"
+    ]
+  },
+  {
+    "id": "j18",
+    "title": "Junior Financial Analyst",
+    "company": "Pune Analytics Hub",
+    "category": "Finance & Accounts",
+    "type": "Full-time",
+    "location": "Baner, Pune",
+    "experience": "0-1 years",
+    "salaryMin": 26000,
+    "salaryMax": 34000,
+    "postedDaysAgo": 8,
+    "openings": 2,
+    "applicants": 47,
+    "featured": false,
+    "skills": ["Excel", "Financial Modeling", "Reporting"],
+    "description": "Support the finance team with budgeting and reporting for client engagements. A strong stepping stone for commerce graduates who want to move into financial analysis or FP&A roles.",
+    "responsibilities": [
+      "Assist in building monthly budget vs actual reports",
+      "Maintain financial models in Excel",
+      "Support audits with documentation requests",
+      "Prepare summary slides for client reviews"
+    ],
+    "requirements": [
+      "B.Com, BBA, or related finance degree",
+      "Strong Excel skills",
+      "Attention to detail with numbers",
+      "Good written communication for reporting"
+    ]
+  }
+]
